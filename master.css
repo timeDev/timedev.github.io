@@ -1,4 +1,5 @@
 /* master css file */
 body {
-	font: 16px OpenSans, sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
 }
